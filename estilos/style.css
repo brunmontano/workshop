@@ -1,0 +1,176 @@
+body{
+	
+}
+nav{
+	background-color: #374151;
+
+}
+.contenedor{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: white;
+	text-transform: uppercase;
+	max-width: 900px;
+	margin: auto;
+	font-family: "Montserrat", sans-serif;
+	
+
+}
+.contenedor a{
+	text-decoration: none;
+	color: white;
+}
+.lista li {
+	display: inline;
+	font-size: 12px;
+	margin: 10px;
+	
+}
+.contenedor h2{
+
+	display: inline;
+	font-size: 20px;
+
+}
+.lista{
+	display: inline;
+    float: right;
+}
+.sec1{
+	background-color: #3CB371;
+	text-align: center;
+	padding-top: 50px;
+	color: white;
+}
+.sec1 h1{
+	margin: 25px;
+	font-size: 45px;
+	text-transform: uppercase;
+	font-family: "Montserrat", sans-serif;
+	font-weight: bold;
+	letter-spacing: 3px;
+}
+.ab:after , .ab:before{
+	content: "";
+	height: 3px;
+	width: 100px;
+	background-color: white;
+	display: inline-block;
+	position: relative;
+	top:-8px;
+	padding: 0 5px;
+}
+.ion-star{
+	font-size: 25px;
+	margin: 0 5px;
+
+}
+.sec1 p{
+	margin-top: 20px;
+	font-family: "Montserrat", sans-serif;
+	font-size: 16px;
+	padding-bottom: 40px;
+}
+.sec2 article{
+	max-width: 900px;
+	margin: auto;
+	padding-bottom: 80px;
+}
+.sec2 article img{
+	margin: 10px;
+    display: inline;
+    width: 275px;
+    height: 215px;
+}
+.sec2 h2{
+	margin-top: 100px;
+	color: #313535;
+	text-transform: uppercase;
+	font-size: 45px;
+	font-family: "Montserrat", sans-serif;
+	font-weight: bold;
+}
+.sec2 .ab:after , .sec2 .ab:before{
+	content: "";
+	height: 3px;
+	width: 100px;
+	background-color: #313535;
+	display: inline-block;
+	position: relative;
+	top:-8px;
+	padding: 0 5px;
+}
+.sec2 .ion-star{
+
+	font-size: 25px;
+	margin: 0 5px;
+}
+.sec2{
+	text-align: center;
+}
+
+.sec3{
+
+	background-color: #3CB371;
+	color:white;
+}
+.sec3 div{
+	text-align: center;
+	padding-top: 80px;
+	padding-bottom : 80px;
+	max-width: 900px;
+	margin: auto;
+}
+.sec3 h2{
+	color: #ffffff;
+	text-transform: uppercase;
+	font-size: 45px;
+	font-family: "Montserrat", sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+.sec3 .ab:after , .sec3 .ab:before{
+	content: "";
+	height: 3px;
+	width: 100px;
+	background-color: white;
+	display: inline-block;
+	position: relative;
+	top:-8px;
+	padding: 0 5px;
+
+}
+.sec3 div .ion-star{
+	font-size: 25px;
+	margin: 0 5px;
+}
+.sec3 article{
+	display: flex;
+    align-items: stretch;
+    justify-content: center;
+	
+}
+.sec3 p{
+	width: 35%;
+	font-family: "Open-sans", sans-serif;
+	line-height: 1.2;
+	text-align: left;
+	margin:10px;
+
+}
+.sec3 .d3{
+	padding: 0px;
+	font-family: "Open-sans", sans-serif;
+}
+a{
+	color: white;
+	text-decoration: none;
+	font-family: "Open-sans", sans-serif;
+}
+.sec3 .ion-code-download{
+	border: 1px solid white;
+	border-radius: 5px;
+	padding: 5px;
+}
